@@ -1,2 +1,1 @@
-# zmk-config-agar-micro-ble
-zmk-config-agar-micro-ble
+# zmk-config for Agar Micro BLE

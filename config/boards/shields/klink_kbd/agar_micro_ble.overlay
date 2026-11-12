@@ -1,0 +1,10 @@
+#include <dt-bindings/zmk/matrix_transform.h>
+#include <physical_layouts.dtsi>
+#include "common.overlay"
+
+#define _RC(x, y)
+#define N(x) (41-x)
+
+/ {
+
+};
